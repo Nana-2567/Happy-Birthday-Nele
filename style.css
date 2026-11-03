@@ -519,3 +519,16 @@ footer {
 }
 
 
+/* Keep the welcome meme stationary */
+.welcome-sticker {
+    animation: none !important;
+    transform: none !important;
+    transition: none !important;
+}
+
+.sticker-container {
+    animation: none !important;
+    transform: none !important;
+    transition: none !important;
+}
+
